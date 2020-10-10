@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#33708F</item>
+        <item name="colorPrimaryDark">#33708F</item>
+        <item name="android:windowBackground">@drawable/square</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="colorAccent">#33708F</item>
+        <item name="android:textViewStyle">@style/textBack1</item>
+    </style>
+    <style name="textBack1" parent="@android:style/Widget.TextView">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+
+
+
+</resources>

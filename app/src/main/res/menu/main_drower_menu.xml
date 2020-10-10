@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/nav_item_one"
+            android:icon="@drawable/user"
+            android:title="My Profile" />
+        <item android:id="@+id/nav_item_two"
+            android:icon="@drawable/question"
+            android:title="Support" />
+        <item android:id="@+id/nav_item_three"
+            android:icon="@drawable/gear"
+            android:title="Settings" />
+        <item android:id="@+id/nav_item_four"
+            android:icon="@drawable/phone"
+            android:title="Contact Us" />
+        <item android:id="@+id/nav_item_five"
+            android:icon="@drawable/comment"
+            android:title="About Us" />
+        <item android:id="@+id/nav_item_six"
+            android:icon="@drawable/logout"
+            android:title="Log Out" />
+    </group>
+
+</menu>
